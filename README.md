@@ -82,6 +82,3 @@ Monitor the logs to check for any errors or issues with task processing:
 pm2 logs
 ```
 
-## License
-
-This project is licensed under the MIT License.
