@@ -18,11 +18,7 @@ This project demonstrates a Node.js API with a user task queuing system that inc
 - **rate-limiter-flexible:** A library for handling rate limiting logic.
 - **PM2:** A process manager for Node.js applications, used for clustering.
 
-## Prerequisites
 
-- Node.js (version X.X.X)
-- Redis (version X.X.X)
-- PM2 (version X.X.X)
 
 ## Setup
 
